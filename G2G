@@ -70,9 +70,9 @@ getgenv().ConfigsKaitun = {
 	},
 
 	["Webhook"] = {-- webhook เเจ้งเตือน ถ้าได้สัตว์ใน Noti Pets หรือพวกที่มี Noti อื่นๆ
-		UrlPet = "Url Here",
-		UrlSeed = "Url Here",
-		PcName = "Threadripper pro 7995wx"
+		UrlPet = "https://discord.com/api/webhooks/1288653428863668286/64MYpk0dpJw-bVJ4wX97UUyLcd_s6WisJh0TuP78LAsEFlL60oKVpZcQnjfhLctSQ48x",
+		UrlSeed = "https://discord.com/api/webhooks/1099871901410672640/lDWsxSiGB2UeMZwjXpQddpcTP-sLT5RRrMM-Tjpiu1dLVIUXolgE4NMOQJeQ1_Mp_zAu",
+		PcName = "Kiwi"
 	},
 	["Noti Seeds"] = { -- ที่จะให้มันเเจ้งเตือนใน webhook
 		"Sunflower",
